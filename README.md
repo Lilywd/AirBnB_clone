@@ -1,5 +1,5 @@
 ##  0x00. AirBnB clone - The console
-![hbnb logo](assets/hbnb logo.png)
+![hbnb logo](assets/logo.png)
 
 
 ### Phase 1: Write a command interpreter to manage your AirBnB objects.
@@ -23,7 +23,7 @@ This is the first step towards building our first full web application: the AirB
 * Destroy an object
 
 
-###Execution
+### Execution
 
 ###### interactive mode:
 ```
