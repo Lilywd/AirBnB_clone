@@ -1,9 +1,8 @@
 #!/usr/bin/python3
-"""contains City class"""
+"""contains Amenity class"""
 from models.base_model import BaseModel
 
 
-class City(BaseModel):
+class Amenity(BaseModel):
     """temp"""
-    state_id = ""
     name = ""
